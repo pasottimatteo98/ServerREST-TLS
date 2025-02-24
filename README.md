@@ -1,4 +1,4 @@
-# Conti_ServerREST
+# ServerREST
 
 A Java-based REST server implementation for managing tool inventory through JSON files.
 
@@ -16,7 +16,7 @@ This project implements a simple REST API server that manages a collection of to
 ## Project Structure
 
 ```
-Conti_ServerRest/
+ServerRest/
 ├── .classpath           # Eclipse classpath configuration
 ├── .project             # Eclipse project configuration
 ├── Ferramenta.java      # Model class for tool objects
